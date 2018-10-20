@@ -2,6 +2,6 @@
 
 @section('index-content')
     <h1>
-        HOME
+        QUÉ PÁSA VELAZCOOOOO
     </h1>
 @endsection
