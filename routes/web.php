@@ -11,10 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('layouts.welcome');
-});
-
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/', 'HomeController@index')->name('home');
+
+Route::resource('maestros', 'MaestroController');
+
+Route::resource('categorias', 'CategoriaController');
