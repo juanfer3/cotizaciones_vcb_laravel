@@ -440,5 +440,25 @@
             "file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel"
         ],
         "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel",
+                "external": "file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel",
+                "path": "/home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel",
+                "scheme": "file"
+            },
+            "backupPath": "/home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/~/.vscode-root/Backups/8a8122f79760dae8fcd8eeaa49cc96d1",
+            "uiState": {
+                "mode": 0,
+                "x": 70,
+                "y": 55,
+                "width": 1370,
+                "height": 845
+            }
+        }
     }
 }
