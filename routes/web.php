@@ -18,3 +18,5 @@ Route::get('/', 'HomeController@index')->name('home');
 Route::resource('maestros', 'MaestroController');
 
 Route::resource('categorias', 'CategoriaController');
+
+Route::resource('actividades', 'ActividadController');

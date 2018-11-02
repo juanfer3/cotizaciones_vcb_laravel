@@ -50,3 +50,7 @@
 [2018-11-01 16:33:28.553] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/out/phpMain
 [2018-11-01 16:33:28.793] [exthost1] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"activationEvent":"onLanguage:php"}
 [2018-11-01 16:33:28.793] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/ecmel.vscode-html-css-0.2.0/out/src/extension
+[2018-11-01 16:44:39.522] [exthost1] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"activationEvent":"onLanguage:blade"}
+[2018-11-01 16:44:39.522] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/onecentlin.laravel-blade-1.18.0/out/src/extension
+[2018-11-01 16:47:03.638] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-11-01 16:47:03.638] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

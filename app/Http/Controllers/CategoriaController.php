@@ -41,14 +41,17 @@ class CategoriaController extends Controller
     {
         //
         if($request->ajax()){
+           
+            
             
             $categoria = new Categoria;
             $categoria->nombre = $request->nombre;
             $categoria->save();
         
-
+            //return 'ajax';
         
-        return (String) view('categorias._row_categoria', compact('post'));
+        return (String) view('categorias._row_categoria', compact('categoria'));
+
         }
         
         return "HTML";
@@ -94,8 +97,25 @@ class CategoriaController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy(Request $request, $id)
     {
         //
+        if ($request->ajax()) {
+            $id = $request->id;
+
+
+            $categoria = new Categoria;        // Totally useless line
+            $categoria = Categoria::find($id); // Can chain this line with the next one
+            $categoria->delete($id);
+
+        
+            return response()->json($categoria);
+
+            //return (String)view('categorias._row_categoria', compact('categoria'));
+
+        }
+
+        return "HTML";
+
     }
 }

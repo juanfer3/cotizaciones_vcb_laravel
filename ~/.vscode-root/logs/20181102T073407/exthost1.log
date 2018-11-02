@@ -1,0 +1,48 @@
+[2018-11-02 07:34:14.926] [exthost1] [info] extension host started
+[2018-11-02 07:34:14.963] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:14.963] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2018-11-02 07:34:15.194] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:15.194] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-11-02 07:34:15.313] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:15.313] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-11-02 07:34:17.746] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:17.746] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-11-02 07:34:18.272] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:18.272] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-11-02 07:34:18.892] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:18.892] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-11-02 07:34:20.039] [exthost1] [info] ExtensionService#_doActivateExtension dariofuzinato.vue-peek {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:20.039] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/dariofuzinato.vue-peek-1.0.2/out/src/extension
+[2018-11-02 07:34:20.605] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:20.605] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/dbaeumer.vscode-eslint-1.6.0/client/out/extension
+[2018-11-02 07:34:22.357] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:22.357] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/esbenp.prettier-vscode-1.6.1/out/src/extension
+[2018-11-02 07:34:22.813] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:22.813] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2018-11-02 07:34:22.841] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:22.841] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2018-11-02 07:34:22.874] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:22.874] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2018-11-02 07:34:22.960] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:22.960] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/hookyqr.beautify-1.4.7/extension
+[2018-11-02 07:34:23.343] [exthost1] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:23.343] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/michelemelluso.code-beautifier-2.1.0/out/src/extension
+[2018-11-02 07:34:23.740] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.atom-keybindings {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:23.740] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/ms-vscode.atom-keybindings-3.0.4/extension
+[2018-11-02 07:34:23.745] [exthost1] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:23.745] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.897/out/src/extension
+[2018-11-02 07:34:27.132] [exthost1] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:27.132] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/pkief.material-icon-theme-3.6.0/out/src/extension
+[2018-11-02 07:34:27.530] [exthost1] [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:27.530] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/tombonnike.vscode-status-bar-format-toggle-1.4.0/out/src/extension
+[2018-11-02 07:34:27.671] [exthost1] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:27.671] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/vincaslt.highlight-matching-tag-0.8.1/out/src/extension
+[2018-11-02 07:34:27.722] [exthost1] [info] ExtensionService#_doActivateExtension vortizhe.simple-ruby-erb {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:27.722] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/vortizhe.simple-ruby-erb-0.2.1/ruby_erb.js
+[2018-11-02 07:34:27.748] [exthost1] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2018-11-02 07:34:27.748] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/zignd.html-css-class-completion-1.17.1/out/src/extension
+[2018-11-02 07:34:30.130] [exthost1] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2018-11-02 07:34:30.130] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/bmewburn.vscode-intelephense-client-0.8.8/out/src/extension
+[2018-11-02 07:34:31.787] [exthost1] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2018-11-02 07:34:31.787] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/felixfbecker.php-intellisense-2.3.5/out/extension
+[2018-11-02 07:34:32.736] [exthost1] [info] eager extensions activated

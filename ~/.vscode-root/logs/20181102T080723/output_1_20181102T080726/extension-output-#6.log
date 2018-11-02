@@ -1,0 +1,30 @@
+[Info  - 8:30:07 a. m.] ESLint server stopped.
+[Info  - 8:30:10 a. m.] ESLint server running in node v8.9.3
+[Info  - 8:30:10 a. m.] ESLint server is running.
+[Info  - 8:30:28 a. m.] 
+Failed to load the ESLint library for the document /home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/assets/js/bootstrap.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder cotizaciones_vcb_laravel
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder cotizaciones_vcb_laravel by executing the 'Disable ESLint' command.
+[Info  - 8:31:08 a. m.] 
+Failed to load the ESLint library for the document /home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/public/js/app.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder cotizaciones_vcb_laravel
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder cotizaciones_vcb_laravel by executing the 'Disable ESLint' command.
+[Info  - 8:31:13 a. m.] 
+Failed to load the ESLint library for the document /home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/public/js/app.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder cotizaciones_vcb_laravel
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder cotizaciones_vcb_laravel by executing the 'Disable ESLint' command.

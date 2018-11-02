@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
+use App\Actividad;
 class ActividadController extends Controller
 {
     /**
@@ -14,6 +14,8 @@ class ActividadController extends Controller
     public function index()
     {
         //
+        $actividades = Actividad::all();
+        return view('actividades/index', compact('actividades'));
     }
 
     /**

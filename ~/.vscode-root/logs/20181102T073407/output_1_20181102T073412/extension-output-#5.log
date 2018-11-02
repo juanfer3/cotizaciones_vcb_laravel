@@ -1,0 +1,285 @@
+[Info  - 7:34:50 a. m.] 4782 files total
+[Info  - 7:34:50 a. m.] Indexing project for definitions and static references
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/ed2a0ffce4d11e9f6dfc42cf4c712a86b6f0a0ab.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/b47db4e7986199baf2dcd071f0704250bd055839.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/41ce24a7a3921f70b7a08bbb199489f761eeed2f.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/da0dd4c7e5d18a15af2ec1092a9e0702ea21176a.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/1c74f8961f384b11da0ed8cbdb56ab8853f7d9d1.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e68ee1e0d784300e12926ef20fd156cc31cf559f.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e4093ab8a81f5a58f774a0f1ba42c4f1038041e3.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e482bfb33988d06af59ef56e3bdbd7b048231a86.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/a006837ab4d606fc87899dc90e36228622f3a38d.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e2499643893d46188fa72b3328c0b165889ed574.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/460a9c77bdc12a2f2e9745db636d7258ff1a4290.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/broadcasting.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/queue.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/session.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/database.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/filesystems.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/mail.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/cache.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/view.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Area.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/ActividadController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/GastoAministrativoController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/HomeController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/CargoController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/OtraVariableController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/AreaController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/MaestroController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Controller.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/CategoriaController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/AuthServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/EventServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/AppServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/RouteServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/GastoAdministrativo.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Exceptions/Handler.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Maestro.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Cargo.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/User.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Console/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Categoria.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Actividad.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/OtraVariable.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/server.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/bootstrap/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/bootstrap/cache/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/bootstrap/autoload.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/api.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/web.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/console.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/channels.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/Feature/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/Unit/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/CreatesApplication.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/TestCase.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/public/index.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/seeds/DatabaseSeeder.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_153607_create_maestros_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_161918_create_categorias_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_161919_create_actividads_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_162030_create_gasto_administrativos_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_162001_create_cargos_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_162828_create_otra_variables_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_161938_create_areas_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/factories/ModelFactory.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_psr4.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_files.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_static.php
+[Info  - 7:34:54 a. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (423483)
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_real.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_classmap.php
+[Info  - 7:34:54 a. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (384981)
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/ClassLoader.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_namespaces.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/autoload.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/passwords.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/validation.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/pagination.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/create.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/edit.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/index.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/_form.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/_row_categoria.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/index.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/_create_modal.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/_form.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/home.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/layouts/welcome.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/layouts/navbar.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/layouts/app.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/passwords/reset.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/passwords/email.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/login.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/register.blade.php
+[Info  - 7:34:55 a. m.] Indexing project for dynamic references
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/ed2a0ffce4d11e9f6dfc42cf4c712a86b6f0a0ab.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/b47db4e7986199baf2dcd071f0704250bd055839.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/41ce24a7a3921f70b7a08bbb199489f761eeed2f.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/da0dd4c7e5d18a15af2ec1092a9e0702ea21176a.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/1c74f8961f384b11da0ed8cbdb56ab8853f7d9d1.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e68ee1e0d784300e12926ef20fd156cc31cf559f.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e4093ab8a81f5a58f774a0f1ba42c4f1038041e3.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e482bfb33988d06af59ef56e3bdbd7b048231a86.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/a006837ab4d606fc87899dc90e36228622f3a38d.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/e2499643893d46188fa72b3328c0b165889ed574.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/storage/framework/views/460a9c77bdc12a2f2e9745db636d7258ff1a4290.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/broadcasting.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/queue.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/session.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/database.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/filesystems.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/mail.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/cache.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/config/view.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Area.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/ActividadController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/GastoAministrativoController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/HomeController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/CargoController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/OtraVariableController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/AreaController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/MaestroController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/Controller.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Http/Controllers/CategoriaController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/AuthServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/EventServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/AppServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Providers/RouteServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/GastoAdministrativo.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Exceptions/Handler.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Maestro.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Cargo.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/User.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Console/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Categoria.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/Actividad.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/app/OtraVariable.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/server.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/bootstrap/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/bootstrap/cache/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/bootstrap/autoload.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/api.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/web.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/console.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/routes/channels.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/Feature/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/Unit/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/CreatesApplication.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/tests/TestCase.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/public/index.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/seeds/DatabaseSeeder.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_153607_create_maestros_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_161918_create_categorias_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_161919_create_actividads_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_162030_create_gasto_administrativos_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_162001_create_cargos_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_162828_create_otra_variables_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2018_10_24_161938_create_areas_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/database/factories/ModelFactory.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_psr4.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_files.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_static.php
+[Info  - 7:34:55 a. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (423483)
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_real.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_classmap.php
+[Info  - 7:34:55 a. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (384981)
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/ClassLoader.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/composer/autoload_namespaces.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/autoload.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/passwords.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/validation.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/lang/en/pagination.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/create.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/edit.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/index.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/maestros/_form.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/_row_categoria.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/index.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/_create_modal.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/categorias/_form.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/home.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/layouts/welcome.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/layouts/navbar.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/layouts/app.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/passwords/reset.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/passwords/email.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/login.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/resources/views/auth/register.blade.php
+[Info  - 7:34:55 a. m.] 62 Packages
+[Info  - 7:34:55 a. m.] Restored vlucas/phpdotenv:2.5.1 from cache
+[Info  - 7:34:55 a. m.] Restored mockery/mockery:0.9.9 from cache
+[Info  - 7:34:55 a. m.] Restored jakub-onderka/php-console-highlighter:0.4 from cache
+[Info  - 7:34:56 a. m.] Restored jakub-onderka/php-console-color:0.2 from cache
+[Info  - 7:34:56 a. m.] Restored fzaninotto/faker:1.8.0 from cache
+[Info  - 7:34:56 a. m.] Restored sven/artisan-view:3.1.0 from cache
+[Info  - 7:34:56 a. m.] Restored nikic/php-parser:3.1.5 from cache
+[Info  - 7:34:56 a. m.] Restored doctrine/instantiator:1.0.5 from cache
+[Info  - 7:34:57 a. m.] Restored doctrine/inflector:1.1.0 from cache
+[Info  - 7:34:57 a. m.] Restored myclabs/deep-copy:1.7.0 from cache
+[Info  - 7:34:57 a. m.] Restored phpunit/php-token-stream:1.4.12 from cache
+[Info  - 7:34:57 a. m.] Restored phpunit/php-timer:1.0.9 from cache
+[Info  - 7:34:57 a. m.] Restored phpunit/phpunit:5.7.27 from cache
+[Info  - 7:34:57 a. m.] Restored phpunit/php-code-coverage:4.0.8 from cache
+[Info  - 7:34:57 a. m.] Restored phpunit/php-text-template:1.2.1 from cache
+[Info  - 7:34:57 a. m.] Restored phpunit/phpunit-mock-objects:3.4.4 from cache
+[Info  - 7:34:57 a. m.] Restored phpunit/php-file-iterator:1.4.5 from cache
+[Info  - 7:34:57 a. m.] Restored psr/log:1.0.2 from cache
+[Info  - 7:34:58 a. m.] Restored erusev/parsedown:1.7.1 from cache
+[Info  - 7:34:58 a. m.] Restored phpspec/prophecy:1.8.0 from cache
+[Info  - 7:34:58 a. m.] Restored hamcrest/hamcrest-php:1.2.2 from cache
+[Info  - 7:35:01 a. m.] Restored laravel/tinker:1.0.8 from cache
+[Info  - 7:35:02 a. m.] Restored laravel/framework:5.4.36 from cache
+[Info  - 7:35:02 a. m.] Restored symfony/debug:3.4.17 from cache
+[Info  - 7:35:04 a. m.] Restored symfony/translation:3.4.17 from cache
+[Info  - 7:35:04 a. m.] Restored symfony/http-kernel:3.4.17 from cache
+[Info  - 7:35:05 a. m.] Restored symfony/event-dispatcher:3.4.17 from cache
+[Info  - 7:35:05 a. m.] Restored symfony/process:3.4.17 from cache
+[Info  - 7:35:05 a. m.] Restored symfony/css-selector:3.4.17 from cache
+[Info  - 7:35:05 a. m.] Restored symfony/polyfill-mbstring:1.9.0 from cache
+[Info  - 7:35:07 a. m.] Restored symfony/polyfill-ctype:1.9.0 from cache
+[Info  - 7:35:09 a. m.] Restored symfony/http-foundation:3.4.17 from cache
+[Info  - 7:35:09 a. m.] Restored symfony/console:3.4.17 from cache
+[Info  - 7:35:10 a. m.] Restored symfony/polyfill-php70:1.9.0 from cache
+[Info  - 7:35:10 a. m.] Restored symfony/routing:3.4.17 from cache
+[Info  - 7:35:10 a. m.] Restored symfony/yaml:3.4.17 from cache
+[Info  - 7:35:11 a. m.] Restored symfony/finder:3.4.17 from cache
+[Info  - 7:35:11 a. m.] Restored symfony/var-dumper:3.4.17 from cache
+[Info  - 7:35:12 a. m.] Restored ramsey/uuid:3.8.0 from cache
+[Info  - 7:35:12 a. m.] Restored psy/psysh:0.9.9 from cache
+[Info  - 7:35:12 a. m.] Restored mtdowling/cron-expression:1.2.1 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/code-unit-reverse-lookup:1.0.1 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/object-enumerator:2.0.1 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/comparator:1.2.4 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/exporter:2.0.0 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/recursion-context:2.0.0 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/environment:2.0.0 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/global-state:1.1.1 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/diff:1.4.3 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/version:2.0.1 from cache
+[Info  - 7:35:12 a. m.] Restored sebastian/resource-operations:1.0.0 from cache
+[Info  - 7:35:12 a. m.] Restored webmozart/assert:1.3.0 from cache
+[Info  - 7:35:12 a. m.] Restored phpdocumentor/reflection-docblock:3.3.2 from cache
+[Info  - 7:35:12 a. m.] Restored phpdocumentor/reflection-common:1.0.1 from cache
+[Info  - 7:35:12 a. m.] Restored phpdocumentor/type-resolver:0.4.0 from cache
+[Info  - 7:35:12 a. m.] Restored nesbot/carbon:1.34.0 from cache
+[Info  - 7:35:13 a. m.] Restored paragonie/random_compat:2.0.17 from cache
+[Info  - 7:35:13 a. m.] Restored monolog/monolog:1.23.0 from cache
+[Info  - 7:35:13 a. m.] Restored dnoegel/php-xdg-base-dir:0.1 from cache
+[Info  - 7:35:14 a. m.] Restored tijsverkoyen/css-to-inline-styles:2.2.1 from cache
+[Info  - 7:35:14 a. m.] Restored swiftmailer/swiftmailer:5.4.12 from cache
+[Info  - 7:35:14 a. m.] Restored league/flysystem:1.0.48 from cache
+[Info  - 7:35:14 a. m.] All 4782 PHP files parsed in 25 seconds. 380 MiB allocated.
