@@ -1,7 +1,0 @@
-[Info  - 4:30:05 p. m.] Initialising
-[Info  - 4:30:06 p. m.] Initialised in 213 ms
-[Info  - 4:30:06 p. m.] Intelephense 0.8.6
-[Info  - 4:30:06 p. m.] Indexing started.
-[Warn  - 4:30:24 p. m.] file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php exceeds maximum file size.
-[Warn  - 4:31:23 p. m.] file:///home/jfvilladiego/proyectos_laravel/cotizaciones_vcb_laravel/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php exceeds maximum file size.
-[Info  - 4:32:33 p. m.] Indexing ended | 4782 files | 147.750 s

@@ -1,0 +1,9 @@
+[2018-11-07 08:59:49.139] [sharedprocess] [info] main {"machineId":"f391cf1e128c7a12d3142ae132058c63ccf9378c9f15b95c65e7378ea4f5de92"}
+[2018-11-07 08:59:50.834] [sharedprocess] [info] Scanned user extensions: 42
+[2018-11-07 08:59:50.940] [sharedprocess] [info] Scanned user extensions: 42
+[2018-11-07 08:59:50.968] [sharedprocess] [info] Scanned user extensions: 42
+[2018-11-07 08:59:51.579] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-07 08:59:51.579] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-07 08:59:52.019] [sharedprocess] [info] Deleted from disk dracula-theme.theme-dracula-2.14.1
+[2018-11-07 08:59:52.101] [sharedprocess] [info] Scanned user extensions: 42
+[2018-11-07 09:00:01.807] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode-1.6.1

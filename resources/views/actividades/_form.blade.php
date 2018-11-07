@@ -1,3 +1,20 @@
+    <div class="form-group">
+        <label 
+            for="nombre" 
+            class="bmd-label-floating">
+            Nombre
+        </label>
+
+      <select 
+      type="text" 
+      class="custom-select" 
+      id="nombre"
+      name= "nombre"
+      
+      >
+    </select>
+      
+    </div>
 
 
     <div class="form-group">
@@ -18,18 +35,18 @@
     </div>
 
 
-    <button id="enviar_categoria" class="btn btn-success btn-raised">Crear</button>
+    <button id="enviar_actividad" class="btn btn-success btn-raised">Crear</button>
 
 
       <script type="text/javascript">
 	
         $(document).ready(function(){
-            
+           
             $('.ocultar').hide();
             
-            $("#enviar_categoria").click(function(){
+            $("#enviar_actividad").click(function(){
 
-                
+           
                 //Toma de valores
                 var nombre = $("#nombre").val();
 
@@ -48,11 +65,13 @@
                 });
                 //envío ajax
                 $.ajax({
-                    url: 'categorias',
+                    url: 'actividades',
                     data: data,
                     type:'POST',
                     success: function(data){
-                        $('#add_categoria').append(data);
+
+                        console.log(data)
+                        //$('#add_actividad').append(data);
                         $("#nombre").val('');
             
 

@@ -19,7 +19,7 @@
 
             
             
-              @include('categorias/_form')       
+              @include('actividades/_form')       
             
 
 

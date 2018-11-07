@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Actividad;
+use App\Categoria;
+
 class ActividadController extends Controller
 {
     /**
@@ -15,7 +17,8 @@ class ActividadController extends Controller
     {
         //
         $actividades = Actividad::all();
-        return view('actividades/index', compact('actividades'));
+        $categorias = Categoria::all();
+        return view('actividades/index', compact('actividades', 'categorias'));
     }
 
     /**
@@ -37,6 +40,18 @@ class ActividadController extends Controller
     public function store(Request $request)
     {
         //
+        if ($request->ajax()) {
+
+            $actividad = new Actividad;
+            $categoria->nombre = $request->nombre;
+            $categoria->save();
+        
+
+            return (String)view('actividades._row_actividad', compact('categoria'));
+
+        }
+
+        //return "HTML";
     }
 
     /**

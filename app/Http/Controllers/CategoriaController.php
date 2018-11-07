@@ -109,13 +109,13 @@ class CategoriaController extends Controller
             $categoria->delete($id);
 
         
-            return response()->json($categoria);
+            //return response()->json($categoria);
 
-            //return (String)view('categorias._row_categoria', compact('categoria'));
+            return (String)view('categorias._row_categoria', compact('categoria'));
 
         }
 
-        return "HTML";
+        //return "HTML";
 
     }
 }
